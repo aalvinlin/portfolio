@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    font-size: 10px;
+}
+
+.devicon-svg {
+    width: 4rem;
+    height: 4rem;
+}
+
+.skills i {
+
+    font-size: 4rem;
+}
